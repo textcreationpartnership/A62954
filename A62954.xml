@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Topsie-turvy, hey-down-derry, or, The colledge of fools display'd and their capps tost at tennis in a jovial discourse, betwixt Merry Andrew and Poor Robin : in which, with other varieties : Merry Andrew to the life discovers the several humours, tricks and devices with which some folk use to delight themselves.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62954</idno>
+            <idno type="STC">Wing T1908A</idno>
+            <idno type="STC">ESTC R7740</idno>
+            <idno type="EEBO-CITATION">13515921</idno>
+            <idno type="OCLC">ocm 13515921</idno>
+            <idno type="VID">99877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Topsie-turvy, hey-down-derry, or, The colledge of fools display'd and their capps tost at tennis in a jovial discourse, betwixt Merry Andrew and Poor Robin : in which, with other varieties : Merry Andrew to the life discovers the several humours, tricks and devices with which some folk use to delight themselves.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed R. C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99877:1"/>
+            <pb facs="tcp:99877:1" rendition="simple:additions"/>
+            <p>
+               <hi>Topſie-Turvy, Hey-Down-Derry,</hi> OR THE Colledge of Fools DISPLAY'D, <hi>And their CAPPS tost at TENNIS:</hi> In a Jovial Diſcourſe, betwixt Merry Andrew AND Poor Robin.</p>
+            <p>In which, with other Varieties; <hi>Merry Andrew</hi> to the Life diſcovers the ſeveral Humours, Tricks and De<g ref="char:EOLhyphen"/>vices with which ſome Folk uſe to delight themſelves.</p>
+            <lg>
+               <l>
+                  <hi>This Book's the Racket of Impartial Wit,</hi>
+               </l>
+               <l>
+                  <hi>Wiſe men, nor Fools, cannot avoid their Hit.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. C.</hi> in <hi>Little Britain,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:99877:2"/>
+            <pb n="3" facs="tcp:99877:2"/>
+            <head>A Jovial Diſcourſe betwixt <hi>Merry ANDREVV</hi> and <hi>Poor ROBIN.</hi>
+            </head>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>WHaw, whaw, who do I ſee? 'Tis my dear Friend <hi>Poor Robin,</hi> Now by the Tippet of my Grandam, he and I muſt wet our Whiſtles together before we part.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Well met <hi>Merry Andrew,</hi> and How, and How fares it with you, you are grown ſo proud of late, that you can<g ref="char:EOLhyphen"/>not afford your old Friend a Viſit; but 'tis no wonder, for I hear you are likely to come to preferment.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>To a preferment quoth he, in the name of <hi>Rabbi Abraham,</hi> what ſhould that be? What, to ſtand like a Carter with a Whip in myhand, in a pair of Hobnailed Shooes, and patched Breeches, with a high crowned, narrow brimm'd Hat on my head, as if I were ordained to fright a way Birds in Seed time from a Neat Garden. What preferment in the name of <hi>Garragantua,</hi> what preferment? To keep a Primer School in a dark Alley, and to entertain Boarders to learn their Spelling Books at ſixteen Pence a Week, and reſolve never to pay my Landlord.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Come, come, you are grown modeſt of late, and bluſh like a Wench that ſees a Baudy Sight through her fingers purpoſely ſpread wide, though ſhe hold them like a Fan before her face, that her im<g ref="char:EOLhyphen"/>pudence may not be diſcovered: <hi>Andrew</hi> deny it not, for Fame hath blown her Trumpet, that you are to riſe to a Tall Fortune; and that if <hi>Runcianello</hi> ſurvive a Duel, that he is to fight with <hi>Tom Thumb,</hi> you are to be his Page, and to wait upon his proper perſon.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Now out upon thee for a lying Varlet, but hark in your Ear <hi>Robin,</hi> the People alſo report (you know how true it is) that you are to change a word in your Name, you will hereafter be called <hi>Rich Robin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I marry, that Name would undo me, for then my Books would not Sell. <hi>Rich Robin;</hi> how can that be likely? You know <hi>Andrew,</hi> what an ambition Poets have to drink Sack, and that they have ſuch Holes in the bottoms of their Pockets, that the Money is no ſooner in, but it falls out.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Why do you pretend your ſelf ſo 'ignorant? 'Tis credibly
+<pb n="4" facs="tcp:99877:3"/>
+reported, that the Aſtrologers offer you a Sum of Money to leave off Writing your Satyrical true Almanack, that hinders the Sale of their falſe ones; but take ye advice of <hi>Merry Andrew,</hi> do not believe them, for you ſhall never get any Money of them, till the Man in the Moon drinks Claret, and then you and I ſhall be Aldermen.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>With this ſtrange News of your own inventing, you think <hi>Andrew</hi> to tranſport me, as you do your Learned Auditory, when you bid them make haſte in, for you begin preſently, though it be an hour af<g ref="char:EOLhyphen"/>ter, if that your Puppet Houſe do not fill according to your expectation; but this Truth I ſhall acquaint you with is above your Fictions. The Empericks and Mountebanks in Moor Fields, reſolve to keep a Holiday every Year, for joy of the death of their Contemporary Dr. <hi>Trigg,</hi> the Quondam Shooemaker, whoſe Practice they have now engroſſed to them<g ref="char:EOLhyphen"/>ſelves, ſo that they are in a Way to thrive for the future, and not to be behind-hand above three quarters of a year for their Rent, and are likely in time to ſet up Scaffolds, where you may again ſhow your impudent face, and play the Knave and the Fool, as pleaſantly as ever you did be<g ref="char:EOLhyphen"/>fore, and be better paid for your acting of both, ſo compleatly at one time. But now let us leave off our Drolling for a while, ſhake hands, and be more ſerious, for you and I muſt compare Notes together of higher concernment; in this Town of <hi>Enfield,</hi> in which we now are, <hi>Smug</hi> the Smith, called the <hi>Merry Devil of Edmonton</hi> uſed to play his Pranks; I am acquainted at the Houſe where <hi>Old Joan</hi> did live, and there we ſhall be ſure to have the beſt Merry, go down in all the Town.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Content, let's in, I dare take thy word for good Liquor, for thou art a true Trojan, and a moſt Intelligent Good-Fellow.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>To the Houſe where are you? <hi>James,</hi> how do'ſt thou do, I and my Friend <hi>Merry Andrew,</hi> are come to quaff your moſt tranſcendent Ale, bring us ſome Pipes of your Trinidado; well done, here's to thee <hi>An<g ref="char:EOLhyphen"/>drew,</hi> with a Heart and a half, as they uſe to ſay, as poor Folks get Chil<g ref="char:EOLhyphen"/>dren.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>I'le pledge thee <hi>Robin,</hi> though it were a mile and a half to the new bottom of the profundity, here's an Upſie-freeze to thee, be an ho<g ref="char:EOLhyphen"/>neſt fellow now, and do me Juſtice, well drawn, 'tis lawful Practice.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Now, prithee what's the beſt News from <hi>Tripilo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Why do'ſt thou ask me for News, when thou thy ſelf converſeſt with the Stars (and according to thy way of Writing in thy Almanack) art a jovial Regiſter of the affairs of the World? But before we fall into any further Diſcourſe of News, in the Name of <hi>Mercury</hi> tell me, how ſuch an Antipathy was firſt raiſed betwixt you and the Aſtrologers?</p>
+            </sp>
+            <pb n="5" facs="tcp:99877:3"/>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I ſhall willingly, on condition that you will alſo reſolve me of ſuch Queſtions, as I ſhall ask you.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>With all my Heart, Chatechiſe me, and I will not fail, I'le warrant thee, to Chatechiſe thee again.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I know of no other difference betwixt the Aſtrologers and I, than what happened almoſt to me as it did to <hi>Priapus,</hi> who having diſco<g ref="char:EOLhyphen"/>vered a couple of Witches, at their Midnight Tricks, let ſuch a Crack backwards, that he frighted them away. The truth is, I was ſomewhat vext, that a Fellow ſhould pretend to know things by the Stars, yet be ignorant who made him a Cuckold, know nothing themſelves, and yet make promiſes of Miracles beyond all things of Soothſaying, and never<g ref="char:EOLhyphen"/>theleſs be ſo fortunate as to meet with People, that ſhould be ſo ſimple as to believe them, who are ſuch a pitiful ſort of ſublime Mercurial Cheats, and ſo confident in their Knavery, that they do call one another as fami<g ref="char:EOLhyphen"/>liarly, when they are private amongſt themſelves, Cheats, as we ſay Your Worſhip. They can tell you forſooth of Things Loſt, but when? When they themſelves have ſtoln them, and that they and their Confederates are in danger of being apprehended for them. I will inveigh no more at this time againſt them, next year have at them again in my New, True Almanack: I ſhall for the preſent only aſſure you thus much, That an old Woman in <hi>Spain,</hi> for the Women there, (the Pra<g ref="char:EOLhyphen"/>ctice is ſo common make Almanacks) one of thoſe Beldams from the ſcratching of her Breech can conjecture the Weather better than they can from all their Star-gazing and the fallibility of their Ephemeris: Now <hi>Merry Andrew</hi> (becauſe we will loſe no more time, ſo vainly ſpent in diſcourſing of them) deal ſo plainly with me, as to acquaint me, why you take ſuch an indifferent Employment on your ſelf (that as I ſaid be<g ref="char:EOLhyphen"/>fore) one can hardly diſtinguiſh, whether you are more Fool or Knave, but for a Wit, all that are in their Wits, muſt let you paſs.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Honeſt <hi>Robin,</hi> you ſhall have the down-right truth (as they uſe to ſay) without either Welt or Guard, my chiefeſt inducement, is to wooe the fair Lady <hi>Pecunia</hi> to be my Miſtreſs, whom (you that are a Poet) know very well to be a ſingular Friend upon all occaſions, for which reaſon alſo you conſult ſo merrily the Stars; And though I am not ignorant of what the World talks of me, and what a bad report Folly hath got even among the moſt fooliſh, yet (as you have merrily ſaid) I am not altogether to be reputed to be numbred amongſt ſuch; and if I had no more Arguments but this one, it might paſs for ſuffi<g ref="char:EOLhyphen"/>cient, that there muſt be ſomething more than ordinary in this Head<g ref="char:EOLhyphen"/>piece, or <hi>Minerva</hi> of mine, ſince I can ſo eaſily make Fools of others: And for my Face, call it Braſs, or what you pleaſe; I <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſooner order,
+<pb n="6" facs="tcp:99877:4"/>
+and ſet it in a right form for my Drollery, and do but ſtep on the Stage to ſhew my ſelf to my full Aſſembly, (but as if I were another <hi>Tarleton)</hi> they all put on a new kind of unwonted pleaſantneſs, and join together in a Frolick and hearty Laughter to give me an Applauſe, whereas before they were as lumpiſh, and as penſive, as if they had conſulted with an Oracle, which had told them of a bad Fortune; ſo that if they do but behold me, they have in an inſtant got another Countenance, and as I vary mine merrily, furiouſly, or ſadly, I make Mimicks of them; So that (as I have heard Scholars ſay) what your great Rhetoricians, with their tedious and ſtudied Orations effect, I have done it at once with my ſingle Look. And now <hi>Poor Robin,</hi> ſince I have ſo largely acquainted you, with what Wonders I can do upon the Crowd with my Face, after I have ſtarched, and put it into a ſet form, ſince you are a reputed Schollard (as People uſe to ſay) God might have made us all, I deſire to know how you fancie your Readers with the Rhetorick of your words.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Indeed <hi>Merry Andrew,</hi> I have for the moſt part lived near <hi>Cambridge,</hi> but I never Commenced there; Notwithſtanding, I ſhall en<g ref="char:EOLhyphen"/>deavour to ſatisfie your requeſt ſo far as I can, concerning the abuſe of Language, of which I am perſwaded that the ſingularity, or mar<g ref="char:EOLhyphen"/>vailous fineneſs of ſpeaking of words troubleth the greateſt part of the World, as I ſhall inſtance to you their cripledneſs, and how they hault ſeveral wayes, and corrupt the Language, that they have the Capacity freely given them for to exerciſe, who ſhew that they have more Wit in their Hands, than they have in their Heads; for that they will endeavour to counterfeit a new kind of Speech; which ſort of fantaſtical, conceited People, are queſtionleſs but a form above thoſe that read ſtrange Le<g ref="char:EOLhyphen"/>ctures, and ſpeak ſuch unſtudied Orations, as they do that are in the Colledge of Fools; of which Inſtitution <hi>Andrew,</hi> I hear your worthy Practice may raiſe you higher in your Office, ſo that you may come to be Preſident, that all will be in your power, to put in whom you pleaſe, therefore I ſhall leave thoſe whom I ſhall exemplifie to your Cenſure, to do what your Gravity ſhall think fit with them. And now I will acquaint you with the manner of ſpeaking of theſe conceited Coxcombes, ſome of them ſpeak as if they were matching of their Words, as Fletchers do Ar<g ref="char:EOLhyphen"/>row Heads to their Shaſts; others ſpeak as though their words were hide-bound in their mouths, as if they wanted a Maſh of Liquorice; or Raiſins of the Sun to looſe their Tongues. Others keep their Mouths ſhut up a long while, to make their words ſtrong and forcible, on purpoſe to ſhoot Bird-boults. Others ſpeak ſo ſcornfully, as though they bought their words by whole-ſale, and were too good to retail them again. O<g ref="char:EOLhyphen"/>thers ſpeak <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words ſo thick, that you muſt of neceſſity tarry the
+<pb n="7" facs="tcp:99877:4"/>
+chewing of them, e're you can conceive what they ſay. Others ſpeak with ſuch a Grace of Moral Sentences and Phraſes, that you would think that they eat no other Meat but <hi>Apothegms</hi> and <hi>Dictionaries.</hi> Others keep a School of good Manners in their Mouths, every word giving back to have the other go before. Others are as daintie of their words, as if they bought them by the <hi>Haverdupois,</hi> and would keep them till a Dear Year, that they might utter by <hi>Troy</hi> and grand Weight. Others ſpeak ſuch Brackiſh and Pickled words, that they are fain to lay them a watering in the Foam of their Mouths, e're they can utter them. Others ſpeak ſuch High and Lofty words, that they are forced to ſet open the broad Gate of their Mouths, for the Wicket is too little for their larded words to come out at. Others ſpeak as if there were more Vowels than Conſonants. Others ſpeak ſo ſhort, as if their words were compounded of the ſame Dos, that the new-found Medicine of the Madams is of, for the tooth-ach. O<g ref="char:EOLhyphen"/>thers ſpeak as if they were Sacrificing their words, and intended to quarter them with their Teeth, as they come out of their Mouths; thoſe are ſuch as their Words are never better than their Deeds, into ſuch you muſt dig deep to find out their meaning. Others have ſuch bouncing words, which ſcent ſo ſtrongly from their Lungs, that thoſe that have the Fal<g ref="char:EOLhyphen"/>ling Sickneſs had not need to ſtand in their way. Others ſpeak ſo holily, as if St. <hi>Antholin's</hi> every Mornings Lectures were up again, or as if their words were Oriſoned with St. <hi>Helens</hi> Beads, ſuch make faces, and draile and tell their words whilſt they utter them; you muſt ever take heed of them, for they are for the moſt part bored through the mid'ſt with Hypocriſie. Others ſpeak as if they had eaten all their Meat at the Mill Door, and had ſcraped their words out of the Mault-duſt, ſuch when they ſhould ſpeak, fall a Cackling. Others ſpeak Forked words, as if they ſhot them out of a Croſs-Bow, 'tis dangerous for a Tame Beaſt to meet with ſuch. Some ſpeak as Leiſurely as if they tarried for a Wind to bring their words from <hi>Frankford</hi> Mart, where if the Exchange prove good, you ſhall be ſure of a Banquet of conceited Fancies. O<g ref="char:EOLhyphen"/>thers ſpeak ſuch ſpangled words, that you would think they had them all at the Embroiderers, for they ſpare for beſtowing no Coſt on them. Others ſpeak ſuch Odoriferous, Provocative words, that you would ima<g ref="char:EOLhyphen"/>gine them to be made of <hi>Ambergeeſe:</hi> when ſuch open their Mouths all the Coaſt is perfumed, as it was when <hi>Cleopatra</hi> Breathed on <hi>Anthony,</hi> this Scent is ſtrong enough to make a Nun break out of a Cloiſter. O<g ref="char:EOLhyphen"/>thers tell a Tale, as if they were making of a Bridge of Words betwixt <hi>Lambeth</hi> Marſh and <hi>Greenwich</hi> Park. Others ſpeak as if they had a Mint going in their Mouths, and only wanted a Stamp to Figure their words. Others ſpeak as if their words were made of Wild Hops, ſuch
+<pb n="8" facs="tcp:99877:5"/>
+mens Tongues run alwayes poſting, and their Wits come haulting after three ſpits and a ſtride; ſuch a Wit <hi>Will Summers</hi> had, King <hi>Henry</hi> the Eights Jeſter, and ſuch a one, no diſparagement to you, you may have (for ought I know) my Merry Friend <hi>Andrew.</hi> Thus having ſatiſfied your Requeſt, now give me leave to ask you this Queſtion, Why do you abuſe your ſelf ſo as to appear in ſo ſtrange a Dreſs?</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Lend me your Ears <hi>Robin,</hi> and I'le tell you, not thoſe Ears that you carry to Church with you, when you go ſo ſeldom thither, (I mean) thoſe you carry on Worky dayes abroad with you, ſuch as are wont to be prickt up to <hi>Juglers; Fools, Buffoons,</hi> and <hi>Jack Puddings</hi> of my Trade, ſuch as our Friend <hi>Midas</hi> once gave to <hi>Pan;</hi> and now Ile Inform you: What is all this Life but a kind of a Comedy (though ſome mens Parts are more Tragical than others) do not men walk often up and down in other mens diſguiſes, and ſo act their reſpective Parts, till the Property Man brings them back to the Tyring Houſe; he that had the Robes of a King, puts on the Rags of a Beggar. Thus are all things repreſented by the Counterfeit, and yet without this there were no Living, though by my Troth, I my ſelf, when I look upon my ſtrange Attire, though I ſet my Countenance againſt it, can hardly abſtain from Laughter, which ren<g ref="char:EOLhyphen"/>ders me more than a little confident that in that ſtrange Mode I pleaſe the People, through whom with a Periwig, in better Clothes, I make my Eſcape; for otherwiſe they would ſtop, and ſtare upon me as if I were an Owle, or crowd me to death, if they did not tear off my Limbs (were they looſe) to go with them to the Ale-Houſe or the Tavern.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>You have anſwered me this Quere, but if I may preſume ſo far, I ſhall ſeriouſly requeſt you, my dear <hi>Andrew,</hi> to acquaint me with ſome part of your Education.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>This is the only Queſtion I have hitherto diſliked from you, as I ſhall not go about to define what I am, I ſhall only ſay (according to the old Proverb) that he that lives furtheſt from his Neighbours, may praiſe himſelf: I came of honeſt ſufficient Parents, not ſuch as the Un<g ref="char:EOLhyphen"/>dutiful Spaniard <hi>Lazerillo</hi> ſpeaks of at the beginning of his Book: And pleaſe your Worſhips, my Father was a Miller, and my Mother a Bawd, and for my Education as to Learning, it had been better, if I had not plaid the Truant, when I ſhould have gone to School. Thus <hi>Robin,</hi> be<g ref="char:EOLhyphen"/>ing born, I believe there's few will think, that I did begin the World as other Children uſually do, with crying; which if I did, it was ſo Low, that no body heard me: For I ſtraight perched up, and ſmiled upon my Mother, and have continued Laughing ever ſince, and made others merry; but if you ſhould demand of me, who they are, I ſhall tell you plainly; that it would be as ſimple a Queſtion as this you asked me laſt; and if
+<pb n="9" facs="tcp:99877:5"/>
+you have a mind to know who my followers are that you ſo often perceive about me, you are not in the leaſt the likelier, to be the wiſer for me.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Here's, <hi>(Merry Andrew)</hi> a whole ſlaſh to you, bring another Pot here, I hope you are more your ſelf, than to take Exceptions at a Queſtion, that I meant nothing but harmleſs mirth in the asking of it, if you do you know your place beſt in the Colledge of Fools.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Here's to you again, the ſame meaſure, no by St. <hi>Hughes</hi> bones, the Shoe-makers Patron, not I in the leaſt.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I'le take your word for it, and venture further upon your good Diſpoſition, Let me embrace you <hi>Andrew.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>And I you <hi>Robin,</hi> we begin to be merry about the Gills, I could ſing, <hi>Fiſhes that Tipple in the Deep</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>As I love this arm-ful of Fleſh, ſo I have a care of your Soul:— Before you ſing out your merry Ditty, What think you of the Lawfulneſs of your Profeſſion?</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>I do take it to be as Lawful as yours, of making of Almanacks and merry Books, which I will vindicate, and when I have done, I'le be ſo civil to you, as not to put you to the trouble for your own Apologie; for if I clear mine, yours may paſs ſcot-free, without any danger of Cannon-ſhot.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I ſhall not fail <hi>Andrew,</hi> to prick up my Ears, and attend your Diſcourſe with my moſt ſerious thoughts.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Then have at it, (as they uſe to ſay, Tooth and Nail.) Howſo<g ref="char:EOLhyphen"/>ever, as the Holy Longing Siſter for Pig in <hi>Bartholomew</hi> Fair, deſired of the Elder, her Brother <hi>Buſie;</hi> I will endeavour to make this Caſe of Con<g ref="char:EOLhyphen"/>ſcience, as Lawful as poſſibly I can. Firſt then, tell me what part of a Man's Life is that, that is not penſive and unpleaſant, unleſs it be ſeaſoned with Pleaſure, that is to ſay, Folly? For according to the old Proverb, Folly is the only thing that keeps Youth at a ſtay, and Age afar off; and many are ſo far from being Wiſe, that they delight to be worſhipped with Sports and Gambols, ſo provident hath the great Parent of Mankind, Na<g ref="char:EOLhyphen"/>ture, been; that there ſhould not any thing be without this mixture or ſea<g ref="char:EOLhyphen"/>ſoning of Folly; to be given up to the will of our paſſions, that the Life of Man might not be altogether diſconſolate. So that as I have ſhown that from Mirth the chief delight of Man ſprings, inſomuch, that ſome, if they can find no occaſion for Laughter, they hire Paraſites, Flatterers, Fools, or Jeſters, whoſe ridiculous diſcourſe might put by the crabbedneſs of the more ſerious Employments of their Minds, in their tranſactions of weighty Affairs: For to what purpoſe were it to clog our Stomacks with Dainties, Junkets, and the like ſtuff; unleſs our Eyes, and Ears, nay our whole Minds were likewiſe entertained with Jeſts, Merriments and Laughter to delight them? to Effect which for their better diverſion many of the moſt
+<pb n="10" facs="tcp:99877:6"/>
+ſerious and ſtudious perſons accuſtome themſelves to ſee Comedies, and the more aiery ſort of people that have leſs Wit, and leſs Money viſit me, and ſee Puppet Playes. For the greateſt part of Mankind are Fools, and there is not one, that dotes not in many things. In fine, Mirth is ſo neceſſary to make up all Society and manners of Life, both delightful and laſting; that otherwiſe neither would the People long endure their Governours, nor the Wife her Husband, nor the Maſter his Foot-man, nor the Servant his Maſter, nor the Scholar his Tutor, nor any Friend one another. But now <hi>Robin,</hi> perhaps you think I have ſaid all, but you ſhall (as briefly as I can expreſs them) hear of greater things. Melancholy Men are the ſoon<g ref="char:EOLhyphen"/>eſt exhauſt with ſtudy, their thin cold bloods have ſcarce any Spirits leſt; the Doctors may give them Phyſick to no other purpoſe than to Kill them, whereas tis want of Mirth that they periſh for, which I, and thoſe of my Profeſſion can fill their Minds with; they ſhall have fine. Toyes, Crotchets, Fancies, and Jollities in their Heads, and thoſe too without any trouble, and for little or no coſt, their Spirits ſhall be revived and made ſpritely as it were with delicious Wine that drives away care and raiſes a pleaſant flavour after it; thus you ſee <hi>Robin,</hi> we leave the Doctors ſo many miles behind us, ſave the Lives of thoſe that their Phyſick would only murther, and if ſo, queſtionleſs, that Profeſſion may plead it ſelf to be Lawful, that is ſo great a maintainer and preſerver of Life. And now tell me <hi>Robin,</hi> thou wiſe Fool, with how many trouble ſome cares this Life is perplexed; with Duns, Ale houſe Scores, &amp;c. and then thou wilt be ſenſible from how many Evils I deliver my Fools; who are merry, play, ſing, dance, and laugh themſelves out of breath at me, living and ſuſtaining themſelves whereſoever they come, upon the ſcraps of my Mirth and Jovial Wit, as the Gods have beſtowed me on them, to refreſh the penſiveneſs of their Lives. <hi>Dixi,</hi> I have ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>In troth, <hi>Merry Andrew,</hi> you have ranged ſucceſſively, though very far in the <hi>Claſſis</hi> of Folly; which is ſo large and univerſal, that I muſt confeſs (as you hinted by the bye) that I ſcarce know, any one in all man<g ref="char:EOLhyphen"/>kind that is wiſe at all hours, or hath not ſome tang or other of madneſs, with this difference only, that if one miſtake a Woman for a Weather-cock, that he be <hi>ipſo facto,</hi> pronounced Mad. Now, if your Wit will permit you, diſtinguiſh what difference you make betwixt the Prerogative of Wiſe-men and Fools.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>I ſhall immediately reſolve you. I'le inſtance it to you in one that hath ſpent his Youth, in Learning the Sciences, and loſt the ſweeteſt part of his Life in Watchings, Cares, Studies; and for the remaining part of it, never ſo much as taſted the leaſt Pleaſure, ever ſparing, ſad, ſowre, unjuſt, rigorous and troubleſome to himſelf, hateful to others, broken with Paleneſs, Leanneſs, Craſineſs, ſore Eyes, and old Age, and Death contracted
+<pb n="11" facs="tcp:99877:6"/>
+before his time, though yet, what matters it when he dies, that never lived: And ſuch is the Picture of this great Wiſe Man, and what is this but Folly, or the next degree to Madneſs. <hi>Robin,</hi> if you'l give me leave, I'le put him into our Colledge.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I ſhall not yet give my Conſent, proceed.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>I thus march on, Wiſe-men have ſo little to do, unleſs it be with Poverty, Hunger, and Chimney corners; that they live ſuch deglected, un<g ref="char:EOLhyphen"/>known, hated Lives, that they are taken very little Notice of; whereas the Fools pockets chink with Money, and flouriſh every where: The greateſt wiſdome is to know when, and where to counterfeit the Fool; and it is a pleaſant thing to counterfeit the Fool in the right ſeaſon. Again, take no<g ref="char:EOLhyphen"/>tice of this Bleſſing that Nature hath beſtowed on Fools, that they are the only plain, honeſt men. A Fool walking by the way, being a Fool himſelf, ſuppoſes all to be Fools like him, ſo that he will ſpeak truth, and the ſame thing, which if it came out of a Wiſe man's mouth, might prove a Capital Crime, ſpoken by him is received with delight: For Truth carries with it a certain peculiar way of pleaſing; and for ſuch a kind of Reaſon it is, that Women are ſo much delighted with ſuch kind of Men, as being more pro<g ref="char:EOLhyphen"/>penſe by nature to Pleaſure and Toyes; and whatſoever they happen to do with them, although it be none of the moſt ſeriouſeſt, or modeſt action of their Lives, yet they know how to turn it to a Jeſt or Laughter, as that Sex is quick-witted, and eſpecially to colour their own faults.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>Indeed, <hi>Merry Andrew,</hi> I alwayes took you for a Womans Man, but (as I told you before) for no Fool; though I queſtion not but you may be as well furniſhed as any of them.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Hang your ſelf, for one of <hi>Erra Pater</hi>'s diſinherited Baſtards. But to proceed; How happy are Fools! who when they paſs over this Life with a great deal of pleaſantneſs, and without ſo much as the fear or ſenſe of Death, they go ſtraight forth into the <hi>Elyſian</hi> Fields, to recreate their careleſs Souls with ſuch ſports as they uſed here.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>But prithee <hi>Andrew</hi> tell me how thou cameſt by this knack of pleaſing the People?</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Eaſily, the great Beaſt the People are led away with Fabulous inventions and Fopperies, they are naturally inclined to pleaſe themſelves; and as they have the Mint, I have the Stamp: There are thoſe amongſt them that will laugh though at the death of their Father, and not without reaſon; for then they begin to live, by having gotten an Eſtate, without which Life is but a kind of Death. I am almoſt out of breath; let it ſuf<g ref="char:EOLhyphen"/>fice that ſome people are taken with a fooliſh ſelf-love, with which every one for the moſt part flatters himſelf: It is juſt as if a man were eating of rotten Stock-fiſh, if he likes it as well as Sturgeon; and as if a man had a crooked
+<pb n="12" facs="tcp:99877:7"/>
+ill-favoured Wife, if in his Eye ſhe ſtands in competition with <hi>Venus,</hi> is ſhe not the ſame to him as if ſhe were truly beautiful; why they admire me, they know a reaſon for it beſt themſelves, I uſe my beſt endeavour to pleaſe them, like the <hi>Camelean,</hi> I change to every Colour, alter my Shapes, vary my Poſtures, change my Countenance, condeſcend to their Humours, and tickle their Spleens with a continued Laughter; Faith, if they hiſſed at me, I know my own deſerts, and am reſolved to applaud my ſelf, and not a Figgs end to value their diſpleaſures, which are often won with an Apple, and as often loſt with a Nut.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>
+                  <hi>Merry Andrew,</hi> by what you have expreſſed, may eaſily be di<g ref="char:EOLhyphen"/>ſcerned what a dearth there is of Wiſe-men, if ſuch are to be found, and though the <hi>Greeks</hi> tell us of Seven, yet ſo help me <hi>Hercules</hi> to drink off this full Pot to thee, as I'le be hanged if they were examined narrowly, if there were to be found one half-witted fellow, or ſo much as a quarter of a wiſe Man amongſt them all, but only ſuch as are fit, having taken their Degrees, to be turned into your Colledge of Fools or mad men, and ſince (as you have ſaid) you have run your ſelf out of breath with this Diſcourſe, pledge me, and I'le take up the Cudgels for you a ſhort time, as I am ſo much of your ſide for what I have already heard from you as to be convinced by your Arguments. I'le inſtance what I do intend to expreſs (if you pleaſe now and then to reply to me) in a few particulars. Tell me I beſeech you, what man in his right wits, would ſubmit his Neck to the Nooſe of Wed<g ref="char:EOLhyphen"/>lock, if as a wiſe man ſhould, he did but firſt weigh the inconveniency of the thing? Or what woman is there would ever go to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, did ſhe either conſider the peril of Child-bearing, or the trouble of bringing them up? ſhe that hath once tried what it is, would ſhe be ſo mad do you think, to make a ſe<g ref="char:EOLhyphen"/>cond adventure? But <hi>Merry Andrew,</hi> what's your opinion of Matrimony? when I have heard it, I will enlarge my Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Next to the meaning of matter of Money, as the word by the Learned (as they ſay) is originally taken, I am of opinion that it is no other than in truth, an inſeparable Conjunction of Life: Good God! what Divorces, or what not, worſe than that, were it not for that tye, would daily happen? and were not the converſe betwixt a Man and his Wife ſupported and cheriſhed by Flattery, Apiſhneſs, Ignorance and Diſſembling; whoop holiday! how few Marriages ſhould we have? And if the Husband ſhould but throughly examine, how many Tricks his little prety Map of Modeſty, and Virgin as he believes, hath playd before ſhe was married; how few of them would hold together, did not moſt of their cunning actions eſcape the Huſ<g ref="char:EOLhyphen"/>bands knowledge, through his neglect or ſottiſhneſs: And for this alſo they are beholding to <hi>Andrew,</hi> by whoſe means it is, that the Husband is ſo plea<g ref="char:EOLhyphen"/>ſant to his Wife, and the Wife to the Husband, ſo that the whole Houſhold is kept in quiet.</p>
+            </sp>
+            <pb n="13" facs="tcp:99877:7"/>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>But what think you, <hi>Andrew,</hi> when a man is laughed at, and called Cuckold, and I know not what; when ſeeing the Whore his Wife weep<g ref="char:EOLhyphen"/>ing, he licks up her tears? But how much happier is it to be thus deceived, than being troubled with Jealouſie, not only for the poor man to torment himſelf, but to ſet all things in a hubbub? do him alſo that civility, <hi>Andrew,</hi> as to put him into your <hi>Colledge of Fools.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>With all my heart, in with him; and tell me, <hi>Robin,</hi> what higher Letters of Recommendation have Women to Men, than their own Folly? For what is it, that the Men (as fooliſh as they are) do not per<g ref="char:EOLhyphen"/>mit them to do? and to what other purpoſe than that of Pleaſure? wherein yet their Folly is not the leaſt thing that pleaſeth; which how true it is, I think no one will deny, that doth but conſider with himſelf, what fooliſh Diſcourſes, wanton Tricks, and odd Gambals paſs betwixt the Man and his Wife, as oft as he hath a mind to be gameſome.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>But there are ſome, <hi>Merry Andrew,</hi> that will ſay, and thoſe too like us, none of the youngeſt, that they have a greater kindneſs to the Pot than the Petticoat, and place their chiefeſt pleaſure in Good-fellowſhip, if there can be any great Entertainment without a Woman at it. But what, is not the Author and Parent of all our Love, <hi>Cupid,</hi> as blind as a Beetle, and as with him all Colours agree; ſo from him it is, that every one likes his own Sweeterkin beſt; that an Old Man doats on his Old Wife, and a Boy on a Girl: Theſe things are not only done every where, but laught at too; yet, as ridiculous as they are, they make Society pleaſant, and (as it were) glew it together. But when Women know themſelves to be Beautiful, and are admired for it, what Tyranny do they then exerciſe even upon Tyrants themſelves? when their Cheeks are plump and ſmooth, their Voices ſmall, and their Skins ſoft, as if they imitated a certain kind of perpetual Youth. Again, what greater thing do theſe Females wiſh in their whole Lives, than that they may Cokes and pleaſe the Men? for, to what other purpoſe are all thoſe Dreſſes, Curlings, Slops, Perfumes, and thoſe ſeveral little tricks of Setting their Faces, Painting their Eye-brows, Smoothing their Skins,— and ſo to the end of the Chapter.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>Now, by this Liquor I drink to thee, <hi>Robin,</hi> thou haſt ſet the Women forth pretty well. But for as much as ſome men are born to the buſineſs of the World more than others; that they may the better manage it, if they will take <hi>Andrew</hi>'s Counſel, I will give them this Advice; That they chooſe a Wife, that is a ſilly thing, (God wot) and fooliſh, yet a little wanton, and pleaſant; by which means the roughneſs of the Maſculine temper is ſeaſoned, and ſweetned by her Folly: For, if perhaps any of them goes about to be thought wiſer than the reſt, what elſe doth ſhe do, but play the Fool twice? as it is a thing quite againſt the Hair, according to the
+<pb n="14" facs="tcp:99877:8"/>
+                  <hi>Proverb,</hi> An Ape is an Ape, though clad in Scarlet; ſo a Woman is a Wo<g ref="char:EOLhyphen"/>man ſtill, that is to ſay, Fooliſh, let her put on what Vizard ſhe will. But by the way, I hope that Sex is not ſo fooliſh altogether, as to take any offence at 'me, for I muſt now and then play the Rogue a little with them; and they know well enough what <hi>Andrew</hi> is, that he is a Merry Fellow, and that's the worſt that they can ſay of me.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>But I think it will be high time now, <hi>Andrew,</hi> to ſet open the Colledge-door, that the reſt of the Fools may go in together. I'll deſcribe ſome other ſorts of them to you, and referr the reſt to your own diſpoſure. There are many. that are unwilling to leave this Life, when according to the account of Deſtiny, this Life hath left them, who by how much the leſs reaſon they have to Live, by ſo much the more they deſire it, Bald, Naſty, Crumps, Toothleſs, wanting their Bawbles, yet ſo delighted with Life, that to be thought Young, one dies his Gray Hairs, another covers his Baldneſs with a Periwig, another gets a ſet of new Teeth, another ſalls deſperately in Love with a young Wench, and keeps more flickering about her, than a Young man would have been aſhamed of: For to ſee ſuch an Old crooked piece, with one foot in the Grave, to Marry a plump Wench, with no other Portion than Horns that ſhe is to graft for him. But the beſt ſport of all is to ſee our Old Women, even dead with Age, and ſuch Skeletons, one would think that they had ſtoln out of their Graves, yet ever mumbling in their mouth, that Life is ſweet, and as Old as they are, ſtill catterwawling; to which purpoſe they ſpare no coſts to purchaſe ſome young Stallion, daily Plaiſtering their Faces, ſcarcely ever from the Glaſs, laying out their ſhriveled and lank Breaſts, counterfeiting the trembling of a young Wench for to provoke the Appetite, Goſſipping, Dancing, and writing of Love-Letters; yet this Dotage they conceit better, than ac<g ref="char:EOLhyphen"/>cording to the <hi>Proverb,</hi> to take a Halter and Hang themſelves: No, they thank you heartily, they are reſolved for to Live till the World is weary of them.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>By St. <hi>Winifrid, Robin,</hi> thou haſt deſcribed a rare Crew of them, but theſe laſt are fitter for the Hoſpital than for the Colledge; but ſince they have a fancy to continue to be more Fools in their Old age, than ever they were in their Youth, it will be very proper to put them in to the reſt. But our-Hour-glaſs is almoſt out, and therefore it will be high time for us to wind up our Bottoms. Here's to you: I'le now tumble them in one after another into the Colledge as faſt as I can, and to that purpoſe briefly mention them. One is a Mourner, and how fooliſhly he carries it? he, forſooth, hires others to bear him company, to make the Funeral the more ridiculous. I ſaid I was in haſte, yet can I not paſs by them, who though they differ nothing from the pooreſt Cobler, yet it is
+<pb n="15" facs="tcp:99877:8"/>
+hardly credible how they flatter themſelves with the meaneſt Title of No<g ref="char:EOLhyphen"/>bility; one derives his. Pedigree from <hi>Aeneas,</hi> another from <hi>Brutus,</hi> a third from the Star by the Tayl of <hi>Urſa major;</hi> they'll ſhew you on every ſide the Statues and Pictures of their Anceſtors, run over their Great Grandfathers of both Lines, and the antient Matches of their Families; when they themſelves are but one remove from a Statue, if not worſe than thoſe Trifles they do ſo boaſt of; and yet by the means of their Self-love they live a pleaſant life. Thoſe Merchants alſo may be ranked and filed with the reſt, who dare to venture on any thing, be it never ſo diſhoneſt, and manage it no better; who though they Lye by no rate or allowance, Swear, and Forſwear, Cozen and Cheat, yet ſhuffle themſelves into the Firſt Rank, though in a ſhort time they kick up their heels, (as a Fiſh turns up her belly before ſhe dyes) Break, and turn Bankrupt. And then for the Gameſters, they may be admitted into the Colledge; who do no ſooner hear the ratling of the Dice, but their Hearts leap and dance again; till time after time, they are ſo far drawn in with the hopes of Winning, till they have made ſhipwrack of All. There are alſo thoſe that leave their Wives and Chil<g ref="char:EOLhyphen"/>dren at home, out of pure devotion, to go to <hi>Rome,</hi> or to <hi>Jeruſalem,</hi> or in Pilgrimage to St. <hi>James,</hi> or to the Lady of <hi>Loretto</hi>'s Shrine; where they have no buſineſs, but only to ſhew their Fools-faces to the cheating Prieſts. Into this Colledge alſo are they to be put, who in their life-time appoint with what Solemnity they will be Buried; and particularly ſet down how many Torches, how many Mourners, and how many Singers, how many Almeſmen they will have at it; as if they had any ſenſe after they are dead of what their Executors are reſolved to do, who perhaps will be ſo thrifty, as to ſave ſome of that Charge into the bargain for themſelves. There are others too, that are Rich only in Conceit; who while they fancy to themſelves pleaſant Dreams, conceive that enough to make them Happy: Some deſire to be accounted Wealthy abroad, and yet are ready to Starve at home; and another rakes it up together by right or wrong; this man is ever labouring for publick Honours, and another lyes ſleeping in the Chimney-corner: A great many undertake endleſs Suits, and out-vie one another, who ſhall moſt enrich the Lawyer: One is all for Innovations, and another for ſome great State-project, he knows not what. There are alſo a kind of <hi>Pythagoreans,</hi> with whom all things are ſo common, that if, they get any thing under their Coats or Cloaks, they make no more ſcruple of carrying of it away, than if it were their own by Inheritance. One turmoils himſelf about other mens Buſineſs, and neglects his own; Another ſpends all he can rap and rend on his Belly, to be the more hungry after it; another thinks there is no Happineſs, but in Sleep and Idleneſs; an<g ref="char:EOLhyphen"/>other imagines himſelf rich in Taking up of Moneys, and changing Securities,
+<pb n="16" facs="tcp:99877:9" rendition="simple:additions"/>
+as we ſay, Borrowing of <hi>Peter</hi> to pay <hi>Paul;</hi> and in a ſhort time runs his head into a Priſon: another ſtarves himſelf to enrich his Heir; another for a ſmall and uncertain Gain, expoſes himſelf to the calamities of the Seas another had rather get riches by War, than live peaceably at home, and ſome there are that think them eaſieſt attained, by courting of Old, Rich, Childiſh Men with Preſents; and others by making Old Women believe that they Love them: You ſhall have one weep over his Mother-in-Laws Grave; another proſtitutes his Wife; anothers Jealouſie keeps more Eyes on her than <hi>Argus;</hi> Here's one deſperately ſick of Love with a young Wench, and the more ſhe ſleights him, the more outragiouſly he loves her; another marries a Womans Money, and not her Self. Had I a Hundred Tongues, as many Mouths, and a Voice never ſo ſtrong, yet were I not able for to run over the ſeveral ſorts of Fools, ſo thick they ſwarm every where.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>
+                  <hi>Merry Andrew,</hi> here's again to you a hearty-go-down; we will take the other Pipe, and then (as you ſaid) it will be high time to break up School: give me leave therefore in brief to ſay, that if a Man like <hi>Menippus</hi> of old, could look down from the Moon, and behold thoſe innumerable Rufflings of Mankind, he would think he ſaw a ſwarm of Flies and Gnats quarrelling amongſt themſelves, fighting, laying Trapps, (or rather trapanning one another,) ſnatching, playing, wantoning, gaming, <hi>&amp;c.</hi> Nor is it to be believed, what ſtirs, what broils this little creature Man raiſeth; yet in how ſhort a time doth War or ſome other Judgement ſweep off Thouſands of them together!</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>
+                  <hi>Poor Robin,</hi> you have ſpoken the truth, the whole truth, and no<g ref="char:EOLhyphen"/>thing but the truth, and So help you God. Here's a parting-cup to you, with which I will conclude our Diſcourſe; or elſe let me be altogether fooliſh my ſelf, and ſuch a one as jovial <hi>Democritus</hi> may not only laugh, but flout at, if I go one foot further in the Diſcovery of the Madneſs and Follies of the Common People, 'tis enough they are in the Colledge; I will only turn the Key upon them; I'le warrant them in ſafe cuſtody, for I dare to paſs my word there is not one of them, if the door were open, would make an eſcape.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>I'le give you an undeniable reaſon for that, becauſe they are in their own Paradiſe; <hi>Merry Andrew</hi> I'le pay the Shot.</p>
+            </sp>
+            <sp>
+               <speaker>M. A.</speaker>
+               <p>You ſhall excuſe me, <hi>Robin,</hi> for this bout, the next time we meet you ſhall depoſite; all's paid. Now give me thy Paw, <hi>Poor Robin,</hi> I muſt ſteer my courſe to <hi>London.</hi> Farewel.</p>
+            </sp>
+            <sp>
+               <speaker>P. R.</speaker>
+               <p>And I to <hi>Saffron-Walden Merry Andrew,</hi> Farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99877:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
